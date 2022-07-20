@@ -1,0 +1,40 @@
+Ejercicio Uno  
+  Se ingresas nombre y edad de 16 pasajeros
+  El nombre no puede estar vacio ni ser nulo
+  Validar que las edades sean mayor que cero
+  contar cuantos mayor que 18  años   => (18,oo]
+  contar cuantos entre  19  y 25 años => [19,25] = (18,24)
+  contar cuantos entre  26 y 35 años  => [26.35] = (25,34)
+  contar cuantos entre  36 y 50  años => [36,50] = (35,49)
+  contar cuantos  menores de 18 y  mayores de 50 años =>[oo, 18) or [50,oo]
+
+
+
+Ejercicio Dos
+
+  El usuario ingresa las operaciones de una cuenta estas pueden ser ingresos o egresos y tendran un monto.
+  Se pedira al usuario el tipo[ingresos/egresos] y el monto[0,10000]  cuando el usuario quiera terminar
+  la insercion de datos ingresara la palabra "salir" cuando el sistema le solicite el tipo de operacion.
+      A- Debe mostrar la cantidad de tranzaciones al terminar en un  console.table({variable});
+
+    El usuario ingresa las transacciones de una cuenta estas pueden ser ingresos o egresos y tendran un monto.
+  Se pedira al usuario el tipo[ingresos/egresos] y el monto[0,10000]  cuando el usuario quiera terminar
+  la insercion de datos ingresara la palabra "salir" cuando el sistema le solicite el tipo.
+      B- Debe mostrar el saldo con un console.table({saldo}) luego de cadad transaccion;
+
+  El usuario ingresa las transacciones de una cuenta estas pueden ser ingresos o egresos y tendran un monto.
+  Se pedira al usuario el tipo[ingresos/egresos] y el monto[0,10000]  cuando el usuario quiera terminar
+  la insercion de datos ingresara la palabra "salir" cuando el sistema le solicite el tipo.
+      c- Al terminar el ingreso Debe mostrar:   console.table({saldo})
+           el saldo ;
+           el menor imgreso;
+           el mayor egreso;
+           el promedio de egresos;
+
+
+
+
+
+
+
+
