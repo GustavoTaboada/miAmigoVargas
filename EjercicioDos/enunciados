@@ -1,0 +1,20 @@
+ 
+ 
+  El usuario ingresa las operaciones de una cuenta estas pueden ser ingresos o egresos y tendran un monto.
+  Se pedira al usuario el tipo[ingresos/egresos] y el monto[0,10000]  cuando el usuario quiera terminar
+  la insercion de datos ingresara la palabra "salir" cuando el sistema le solicite el tipo de operacion.
+      A- Debe mostrar la cantidad de tranzaciones al terminar en un  console.table({variable});
+
+  El usuario ingresa las transacciones de una cuenta estas pueden ser ingresos o egresos y tendran un monto.
+  Se pedira al usuario el tipo[ingresos/egresos] y el monto[0,10000]  cuando el usuario quiera terminar
+  la insercion de datos ingresara la palabra "salir" cuando el sistema le solicite el tipo.
+      B- Debe mostrar el saldo con un console.table({saldo}) luego de cadad transaccion;
+
+  El usuario ingresa las transacciones de una cuenta estas pueden ser ingresos o egresos y tendran un monto.
+  Se pedira al usuario el tipo[ingresos/egresos] y el monto[0,10000]  cuando el usuario quiera terminar
+  la insercion de datos ingresara la palabra "salir" cuando el sistema le solicite el tipo.
+      c- Al terminar el ingreso Debe mostrar:   console.table({saldo})
+           el saldo ;
+           el menor ingreso;
+           el mayor egreso;
+           el promedio de egresos;
